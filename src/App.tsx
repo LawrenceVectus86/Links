@@ -113,7 +113,7 @@ export default function App() {
         </div>
         
         <h1 className="font-sans font-black text-5xl md:text-6xl uppercase tracking-tighter leading-[0.9] mb-4 text-slate-900 dark:text-white">
-          FUTURA<br />STUDIO
+          CALVIN<br />LAWRENCE
         </h1>
         
         <p className="font-mono text-slate-900 dark:text-bold-accent text-xs uppercase tracking-wider mb-12">
